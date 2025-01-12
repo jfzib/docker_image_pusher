@@ -1,2 +1,2 @@
-qinglong:2.10.13
-whyour/qinglong:2.10.2
+alpine
+whyour/qinglong:latest
